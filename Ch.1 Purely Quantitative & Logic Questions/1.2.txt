@@ -1,0 +1,10 @@
+My solution was a bit different from the book's but gets the same result.
+
+Instead of imagining the case of 1 and 1000, I imagined 0 and 1000
+
+0 + 1000 equals 1000
+So does 1 + 999
+So does 2 + 998 and so on
+
+So if n is odd  the sum is n * ( (n // 7 ) + 1)
+And if n is even  the sum is n * (n // 7 ) plus n/2

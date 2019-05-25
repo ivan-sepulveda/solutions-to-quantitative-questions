@@ -1,0 +1,8 @@
+So let's say that the original volume V of both jugs is 900ml and Q is 100 ML
+
+Step 1: Pour Q from Water Jug into Alcohol jug. Now the concentration of the water jug is still 100%, but now has 800ml. The concentration of the alcohol jug is diluted, specifically it is V/(V+Q) like the author says. But with our quantities for V and Q, this amounts to 900ml/1000ml = 90%.
+
+Step2: Pour Q back from Alcohol jug into Water Jug. This Q we already know is 90% alcohol. Therefore the same Q is 10% water. The final concentration of the water will be (8/9)*100% plus (1/9)*10%. Where did the 8/9 and 1/9 fraction come from? The ratio of each portion of liquid to the initial/final volume V. 800ml/900ml = 8/9 and Q/V = 1/9.
+If you do the math 8/9 * 100% plus 1/9 * 10% is 90%, the exact same purity as the alcohol jug.
+
+The concentration are equal and the math proves it.
